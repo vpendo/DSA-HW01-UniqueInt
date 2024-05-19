@@ -33,4 +33,4 @@ def process_file(input_file_path, output_file_path):
     print("Unique integers written to", output_file_path)
 
 # Example usage
-process_file("sample_input_for_students/sample_04.txt", "results_for_sample_inputs/sample_04.txt_result.txt")
+process_file("sample_input_for_students/sample_01.txt", "results_for_sample_inputs/sample_01.txt_result.txt")
